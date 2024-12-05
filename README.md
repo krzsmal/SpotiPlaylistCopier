@@ -20,7 +20,7 @@ The newly created playlist, where all songs will be copied, will have the same n
 7. Go to the newly created playlist and rename it as desired.
 
 ## Limitations
-- The script relies on Spotify's UI, so changes to the website's structure may require updates to the XPath.
+The script relies on Spotify's UI, so changes to the website's structure may require updates to the XPath.
 
 ## Disclaimer
 Use this script at your own risk. Spotify may restrict access to your account if actions violate their Terms of Service.
