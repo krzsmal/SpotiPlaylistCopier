@@ -8,7 +8,7 @@ The newly created playlist, where all songs will be copied, will have the same n
 - Configurable via XPath for easy customization.
 
 ## Requirements
-- A web browser with Developer Tools (e.g., Google Chrome).
+A web browser with Developer Tools (e.g., Google Chrome).
 
 ## Usage
 1. Open Spotify in your web browser and log in to your account.
